@@ -120,12 +120,13 @@ h3,
 }
 
 .main-section {
-  float: left;
-
+  
+  height: 100%;
   padding: 30px;
   margin: 0 0 40px;
   background: #fff;
   border: 1px solid #ddd;
+  overflow: auto;
 }
 
 /* portfolio page */
